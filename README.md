@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Lorem Picsum](https://picsum.photos/)
+![Lorem Picsum Gorsel](https://picsum.photos/id/1/200/300)
